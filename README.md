@@ -1,8 +1,7 @@
 ### Olá, eu sou Luiz Eduardo 👋
 
-- 🔭 Trabalhando atualmente como desenvolvedor front-end
-- 📫 Contate-me no email: luizbcoelho27@outlook.com
-- 😄 Pronouns: ele/dele
+- 🔭 Front-end developer
+- 📫 Email: luizbcoelho27@outlook.com
 
 <div align="center">
   <a href="https://github.com/eduardobcoelho">
